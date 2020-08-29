@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "allironmod:items/all_iron_sword"
+  }
+}
